@@ -63,4 +63,9 @@ Antes de compilar o código no Arduino IDE ou PlatformIO, instale as seguintes b
 - `WiFi.h` *(inclusa no framework do ESP32)*
 - `WebServer.h` *(para o servidor HTTP)*
 
+## Autores
+***Grupo de Robótica do Colégio da Polícia Militar da Paraíba, do ano de 2025.***
+- Representantes (professores): Christiano Rodrigues e Wandeilson Ferreira.
+- Integrantes do grupo (alunos): Vitor Veloso, Pedro Ferreira, Matheus Henrique e Lyrvson Bryan.
+
 ---
